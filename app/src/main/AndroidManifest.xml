@@ -3,7 +3,7 @@
     package="com.gurpreetdhillon.firstrepo" >
 
     <application
-        android:allowBackup="true"
+        android:allowBackup="False"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
